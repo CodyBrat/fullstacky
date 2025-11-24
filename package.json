@@ -10,6 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "node": "^25.2.1"
+    "node": "^25.2.1",
+    "prisma": "^7.0.0"
   }
 }
